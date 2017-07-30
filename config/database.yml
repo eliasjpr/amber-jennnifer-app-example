@@ -1,0 +1,10 @@
+defaults : &defaults
+  host: localhost
+  adapter: postgres
+  user: eperez
+  password:
+  migration_files_path: db/migrations
+
+development:
+  db: blog_development
+  <<: *defaults

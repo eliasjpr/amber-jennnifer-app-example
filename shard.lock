@@ -1,0 +1,54 @@
+version: 1.0
+shards:
+  accord:
+    github: neovintage/accord
+    version: 1.1.0
+
+  amber:
+    github: Amber-Crystal/amber
+    version: 0.1.5
+
+  db:
+    github: crystal-lang/crystal-db
+    version: 0.4.2
+
+  inflector:
+    github: phoffer/inflector.cr
+    version: 0.1.8
+
+  jennifer:
+    github: imdrasil/jennifer.cr
+    version: 0.3.2
+
+  kilt:
+    github: jeromegn/kilt
+    version: 0.3.3
+
+  pg:
+    github: will/crystal-pg
+    version: 0.13.3
+
+  quartz-mailer:
+    github: amber-crystal/quartz-mailer
+    commit: 203c6ac78e670a6d86eb33cb4ee4220b5fa5eb4d
+
+  radix:
+    github: luislavena/radix
+    commit: 211418416adba540b594af2260e1b5d0c8877c9e
+
+  redis:
+    github: stefanwille/crystal-redis
+    version: 1.8.0
+
+  sam:
+    github: imdrasil/sam.cr
+    version: 0.2.1
+
+  slang:
+    github: jeromegn/slang
+    commit: b817c89c7e5ae39562710c0d6c7f42cee685e14f
+
+  smtp:
+    github: raydf/smtp.cr
+    commit: 36854c38435ce104914cb6f44e08c23d8defd143
+
